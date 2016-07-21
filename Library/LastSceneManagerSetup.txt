@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Gameplay_Matchmaking.unity
+  isLoaded: 1
+  isActive: 1
